@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+}
+.portfolio-content{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 50px;
+}
+
+.text-area{
+    background-color: white;
+    height: auto;
+    width: 1200px;
+    display: flex;
+    align-items: start;
+    justify-content: center;
+    padding: 20px;
+}
+.text{
+    padding: 5px;
+}
+.portfolio-content img {
+    height: 350px;
+}
