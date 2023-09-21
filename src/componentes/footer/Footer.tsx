@@ -43,16 +43,16 @@ function Footer(){
                         <li><a href="#">Serviços profissionais</a></li>
                     </ul>
                     <ul>
-                        <li><h1>Mais</h1></li>
+                        <li><h1>Saiba Mais</h1></li>
                         <li><a href="#">Riber's Architeture and Home Design Site</a></li>
                         <li><a href="#">Blog</a></li>
                         <li><a href="#">Centro de ajuda</a></li>
                         <li><a href="#">Localização</a></li>
                     </ul>
                     <ul>
-                        <li><h1>Community</h1></li>
-                        <li><a href="#">Discord Community</a></li>
-                        <li><a href="#">Documentation</a></li>
+                        <li><h1>Comunidade</h1></li>
+                        <li><a href="#">Comunidade Discord</a></li>
+                        <li><a href="#">Documentação</a></li>
                     </ul>
                 </nav>
             </div>
