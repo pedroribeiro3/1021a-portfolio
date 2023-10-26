@@ -10,6 +10,11 @@
 }
 .portfolio-content button{
     background-color: #1a1a1a;
+    height: 45px;
+    border-radius: 10px;
+    color: white;
+    font-size: 16px;
+    
 }
 .portfolio-content button:hover{
     background-color: #101010;
@@ -26,7 +31,11 @@
     padding: 20px;
 }
 .text{
-    padding: 5px;
+    padding: 10px;
+}
+.text h1{
+    font-size: 51.2px;
+    padding-bottom: 10px;
 }
 .portfolio-content img {
     height: 350px;

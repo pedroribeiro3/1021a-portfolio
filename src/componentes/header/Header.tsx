@@ -1,5 +1,5 @@
 import './Header.css'
-import Link from './../link/Link'
+import LinkNav from '../linknav/LinkNav'
 import Logo from './../../assets/images/logo-topo.png'
 
 function Header(){
@@ -10,13 +10,13 @@ function Header(){
                 </div>
                 <nav className='navegacao-header'>
                     <ul>
-                        <li><Link texto='Inicio'/></li>
-                        <li><Link texto='Portfólio'/></li>
-                        <li><Link texto='Avaliações'/></li>
-                        <li><Link texto='Contatos'/></li>
+                        <li><LinkNav url='/home' texto='Inicio'/></li>
+                        <li><LinkNav url='/portfolio' texto='Portfólio'/></li>
+                        <li><LinkNav url='/avaliacoes' texto='Avaliações'/></li>
+                        <li><LinkNav url='/contato' texto='Contatos'/></li>
                         <li>|</li>
-                        <li><Link texto='Registrar-se'/></li>
-                        <li><Link texto='Login'/></li>
+                        <li><LinkNav url='/registro' texto='Registrar-se'/></li>
+                        <li><LinkNav url='/login' texto='Login'/></li>
 
                     </ul>
                 </nav>
